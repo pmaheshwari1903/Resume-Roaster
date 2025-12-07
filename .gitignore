@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
+ENV/
+env/
+venv/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
