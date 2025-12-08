@@ -42,7 +42,7 @@ if analyze and file:
         2) 2 strengths to keep,
         3) a suggested one-line rewrite for the resume summary.
         Keep overall length between 200 and 300 words.
-        Respond in Hinglish (mix of Hindi + English). Be harsh and direct but do NOT encourage self-harm or demeaning language that attacks protected attributes.
+        Respond in English. Be harsh and direct but do NOT encourage self-harm or demeaning language that attacks protected attributes.
         Role: {role or 'N/A'}
         Resume (begin):
         {file_content}
